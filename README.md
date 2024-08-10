@@ -4,6 +4,8 @@
 
 Este repositório contém a implementação do modelo de banco de dados para o sistema de gerenciamento de vídeos "Melhores Compras". O objetivo deste sistema é gerenciar clientes, produtos, categorias de produtos, funcionários, endereços e outras entidades relacionadas ao funcionamento de uma loja de e-commerce focada em vídeos.
 
+O desenvolvimento do banco de dados foi realizado utilizando as ferramentas **Oracle SQL Developer** e **Oracle Data Modeler**, que permitiram a criação e a modelagem eficiente das tabelas e relacionamentos.
+
 ## Estrutura do Banco de Dados
 
 ### Tabelas Principais
